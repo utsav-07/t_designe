@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/t_designe/static/css/main.6803fbd6.chunk.css",
-    "main.js": "/t_designe/static/js/main.6f2685aa.chunk.js",
-    "main.js.map": "/t_designe/static/js/main.6f2685aa.chunk.js.map",
+    "main.css": "/t_designe/static/css/main.d0045d89.chunk.css",
+    "main.js": "/t_designe/static/js/main.82db1e71.chunk.js",
+    "main.js.map": "/t_designe/static/js/main.82db1e71.chunk.js.map",
     "runtime-main.js": "/t_designe/static/js/runtime-main.5ea1de70.js",
     "runtime-main.js.map": "/t_designe/static/js/runtime-main.5ea1de70.js.map",
     "static/js/2.79743613.chunk.js": "/t_designe/static/js/2.79743613.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2dd12041.chunk.js": "/t_designe/static/js/3.2dd12041.chunk.js",
     "static/js/3.2dd12041.chunk.js.map": "/t_designe/static/js/3.2dd12041.chunk.js.map",
     "index.html": "/t_designe/index.html",
-    "static/css/main.6803fbd6.chunk.css.map": "/t_designe/static/css/main.6803fbd6.chunk.css.map",
+    "static/css/main.d0045d89.chunk.css.map": "/t_designe/static/css/main.d0045d89.chunk.css.map",
     "static/js/2.79743613.chunk.js.LICENSE.txt": "/t_designe/static/js/2.79743613.chunk.js.LICENSE.txt",
     "static/media/f2.png": "/t_designe/static/media/f2.82750cd7.png",
     "static/media/phone.svg": "/t_designe/static/media/phone.b8e6f408.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5ea1de70.js",
     "static/js/2.79743613.chunk.js",
-    "static/css/main.6803fbd6.chunk.css",
-    "static/js/main.6f2685aa.chunk.js"
+    "static/css/main.d0045d89.chunk.css",
+    "static/js/main.82db1e71.chunk.js"
   ]
 }
